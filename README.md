@@ -24,4 +24,4 @@ This project analyzes sales data using Python to extract insights such as revenu
 
 ## Author
 
-Saud Khan — Beyond the Universe
+Saud Khan — Thinking Beyond the Universe
