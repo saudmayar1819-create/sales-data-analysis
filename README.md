@@ -18,10 +18,11 @@ This project analyzes sales data using Python to extract insights such as revenu
 
 ## Visualizations
 
-* Daily Sales Trend (Line Chart)
-* Revenue by Product (Bar Chart)
-* Revenue Distribution (Pie Chart)
+## 📊 Visualizations
 
+![Daily Sales](daily_sales.png)
+![Product Sales](product_sales.png)
+![Revenue Share](revenue_share.png)
 ## Author
 
 Saud Khan — Thinking Beyond the Universe
