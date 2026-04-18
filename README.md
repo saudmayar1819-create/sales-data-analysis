@@ -16,12 +16,15 @@ This project analyzes sales data using Python to extract insights such as revenu
 * Laptop identified as the top-performing product
 * Sales trend shows fluctuation with peak on the final day
 
-## Visualizations
-
 ## 📊 Visualizations
 
+### Daily Sales Trend
 ![Daily Sales](daily_sales.png)
+
+### Product Revenue
 ![Product Sales](product_sales.png)
+
+### Revenue Distribution
 ![Revenue Share](revenue_share.png)
 ## Author
 
